@@ -2,4 +2,3 @@
 Small unoptimized but working python tool to automate frequency sweeps and datalogging with a HAMEG HMS3010 spectrum analyzer with tracking generator at a user defined time interval. The code snippet was written based on the HAMEG_EN_COMMAND_SCPI_HMS.pdf manual by HAMEG Instruments GmbH. See also the comments in the .py file.
 The code snippet in this repo was used to log the behavior of a sensor developed by EasyMeasure B.V., www.easymeasure.nl through frequency sweeps at user defined time intervals. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
